@@ -1,0 +1,17 @@
+#demo1{
+  width: 100%;
+  /* max-width: 500px; */
+  height: 100%;
+  top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+
+}
+#demo1 img{
+  object-fit: contain;
+  top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}

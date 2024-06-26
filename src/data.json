@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "img":"http://localhost:3000/fon.jpg",
+    "prop": 0.8125
+  },
+  {
+    "id":2,
+    "img":"http://localhost:3000/kart.jpg",
+    "prop": 0.758
+  }
+]

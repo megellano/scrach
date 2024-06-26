@@ -1,0 +1,34 @@
+.oceny_block{
+  width: 100%;
+    height: 80px;
+  position: relative;
+ 
+}
+.oceny_bg{
+  position: absolute;
+  width:  100%;
+  background: rgb(93 193 213 / 71%);
+  z-index: 0;
+}
+
+.oceny_wrap {
+position: relative;
+  /* width: 100%; */
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 5px;
+}
+.ocena_button {
+  display: none;
+}
+.ocenalbl {
+display: block;
+  height: 50px;
+    min-width: 85px;
+    align-items: center;
+}
+input.ocena_button[type="radio"]:checked+label {
+  font-weight: bold;
+}
